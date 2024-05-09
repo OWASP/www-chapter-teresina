@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Heracias Leite](mailto:heracias.leite@owasp.org)
+* [Pedro Cutrin](mailto:pedro.cutrin@owasp.org)
