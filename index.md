@@ -18,6 +18,4 @@ Em nossos encontros regulares, reunimos profissionais de segurança, desenvolved
 
 Se você está interessado em segurança de aplicativos da web, seja bem-vindo ao OWASP Teresina! Junte-se a nós em nossos eventos e faça parte desta comunidade apaixonada por segurança cibernética.
 
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
----------------------
-{% include chapter_events.html group=page.meetup-group %}
+# Eventos
