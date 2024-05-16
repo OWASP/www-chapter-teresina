@@ -8,9 +8,10 @@ country: Brazil
 meetup-group:
 
 ---
-<p align="center">
-  <img src="https://github.com/OWASP/www-chapter-teresina/assets/images/owasp-teresina.jpeg">
-</p>
+<br>
+<center>
+<img src="assets/images/owasp-teresina.jpeg">
+</center>
 
 # Bem vindos, Somos o Capítulo OWASP Teresina!
 
