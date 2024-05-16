@@ -2,13 +2,15 @@
 
 layout: col-sidebar
 title: OWASP Teresina
-tags: example-tag
+tags: eventos-tag
 region: South America
 country: Brazil
 meetup-group:
 
 ---
-![Fortaleza, CE](assets/images/owasp-teresina.jpeg)
+<p align="center">
+  <img width="400" height="400" src="https://github.com/OWASP/www-chapter-teresina/assets/images/owasp-teresina.jpeg?raw=true">
+</p>
 
 # Bem vindos, Somos o Capítulo OWASP Teresina!
 
