@@ -9,7 +9,7 @@ meetup-group:
 
 ---
 <p align="center">
-  <img width="400" height="400" src="https://github.com/OWASP/www-chapter-teresina/assets/images/owasp-teresina.jpeg?raw=true">
+  <img width="400" height="400" src="https://github.com/OWASP/www-chapter-teresina/assets/images/owasp-teresina.jpeg">
 </p>
 
 # Bem vindos, Somos o Capítulo OWASP Teresina!
