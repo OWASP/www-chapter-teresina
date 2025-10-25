@@ -1,0 +1,25 @@
+leaders:
+  - name: Heracias Neto
+    email: heracias.leite@owasp.org
+    github: heracias
+  - name: Pedro Cutrim
+    email: pedro.cutrim@owasp.org
+  - name: Gilvan Junior
+    email: gilvan.junior@owasp.org
+location:
+  country: Brazil
+  country_code: BR
+  region: Piauí
+  city: Teresina
+  latitude: -5.0874608
+  longitude: -42.8049571
+name: OWASP Teresina
+repositories:
+  - name: www-chapter-teresina
+    url: https://github.com/OWASP/www-chapter-teresina
+    description: OWASP Foundation web repository
+tags:
+  - eventos-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-teresina
